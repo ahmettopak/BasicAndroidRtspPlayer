@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+   Author: Ahmet TOPAK
+   Version: 1.0
+   Date: 6/25/2024
+-->
+<resources>
+    <dimen name="horizontal_items">16dp</dimen>
+</resources>
