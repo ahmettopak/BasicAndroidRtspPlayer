@@ -9,8 +9,8 @@ import android.os.Handler
 import android.os.Looper
 import android.util.Log
 import android.view.Surface
-import com.ahmet.natv1.camera.utils.MediaCodecUtils
-import com.ahmet.natv1.camera.utils.capabilitiesToString
+import com.ahmet.lowlatencyrtspplayer.rtsp.utils.MediaCodecUtils
+import com.ahmet.lowlatencyrtspplayer.rtsp.utils.capabilitiesToString
 import com.google.android.exoplayer2.util.Util
 import java.nio.ByteBuffer
 import java.util.concurrent.TimeUnit

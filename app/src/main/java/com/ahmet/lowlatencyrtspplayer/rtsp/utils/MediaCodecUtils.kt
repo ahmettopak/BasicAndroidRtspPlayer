@@ -1,4 +1,4 @@
-package com.ahmet.natv1.camera.utils
+package com.ahmet.lowlatencyrtspplayer.rtsp.utils
 
 import android.util.Log
 import android.util.Range
